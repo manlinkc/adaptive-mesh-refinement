@@ -1,0 +1,13 @@
+1		Toro Test Number	
+1.0		rho_L
+0.0  		u_L  
+1.0  		p_L
+0.125		rho_R		
+0.0		u_R		
+0.1  		p_R		
+0.30313		pstar
+0.92745 	ustar		
+1.4 		Gamma	
+0.25		Final Time
+100		Number of Cells/Resolution
+t1_rho_level1.txt	File name of AMReX solution 

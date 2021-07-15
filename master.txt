@@ -1,0 +1,80 @@
+******************************************
+Toro Test 1 
+******************************************
+1		Toro Test Number	
+1.0		rho_L
+0.0  		u_L  
+1.0  		p_L
+0.125		rho_R		
+0.0		u_R		
+0.1  		p_R		
+0.30313		pstar
+0.92745 	ustar		
+1.4 		Gamma	
+0.25		Final Time
+100		Number of Cells/Resolution
+
+******************************************
+Toro Test 2
+******************************************
+2		Toro Test Number	
+1.0		rho_L
+-2.0  		u_L  
+0.4  		p_L
+1.0		rho_R		
+2.0		u_R		
+0.4  		p_R		
+0.00189		pstar
+0.00000 	ustar		
+1.4 		Gamma	
+0.15		Final Time
+100		Number of Cells/Resolution
+
+******************************************
+Toro Test 3
+******************************************
+3		Toro Test Number	
+1.0		rho_L
+0.0  		u_L  
+1000.0  	p_L
+1.0		rho_R		
+0.0		u_R		
+0.01  		p_R		
+460.894		pstar
+19.5975 	ustar		
+1.4 		Gamma	
+0.012		Final Time
+100		Number of Cells/Resolution
+
+******************************************
+Toro Test 4
+******************************************
+4		Toro Test Number	
+1.0		rho_L
+0.0  		u_L  
+0.01  		p_L
+1.0		rho_R		
+0.0		u_R		
+100.0  		p_R		
+46.0950		pstar
+-6.19633 	ustar		
+1.4 		Gamma	
+0.035		Final Time
+100		Number of Cells/Resolution
+
+******************************************
+Toro Test 5
+******************************************
+5		Toro Test Number	
+5.99924		rho_L
+19.5975  	u_L  
+460.894  	p_L
+5.99242		rho_R		
+-6.19633	u_R		
+46.0950  	p_R		
+1691.64		pstar
+8.68975 	ustar		
+1.4 		Gamma	
+0.035		Final Time
+100		Number of Cells/Resolution
+
